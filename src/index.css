@@ -1,0 +1,21 @@
+/* src/App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f7f7;
+}
+
+h2 {
+  color: #333;
+}
+
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #007bff;
+}
+
+button {
+  font-weight: bold;
+}
